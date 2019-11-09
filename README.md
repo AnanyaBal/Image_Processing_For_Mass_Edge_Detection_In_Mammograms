@@ -28,6 +28,7 @@ K - means clustering algorithm is an unsupervised algorithm and it is used to se
 Canny operator is widely used as an excellent edge detector; it also includes Gaussian smoothing element that may significantly soften edges. I have added k-means segmentation and have compared edge detection prior and post k-means segmentation. I have applied median filtering to the image prior to edge detection, to get rid of speckle noise. The enhanced image is from the histrogram equalization.
 
 Given below is the entire process for mammogram number 2.
+
 ![Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m1.jpg) ![Enhanced Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m2.jpg) ![Manual Parameters Edge Detection Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m3.jpg) ![ Automnated Edge Detection Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m4.jpg) ![K means segmented with k=3 Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m5.jpg) ![Manual Parameters Edge Detection on K means segmented Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m6.jpg) ![Automated Edge Detection on K means segmented Mammogram2](https://github.com/Anniebbb/ImageProcessing/blob/master/m7.jpg)
 
 # Conclusion
