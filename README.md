@@ -1,6 +1,6 @@
 # About
 
-In this project, I have enhnaced the mammogram images using Laplacian filter and histogram equalization and implemented edge detection using canny edge detection and k-means clustering for segmentation. 
+In this project, I have enhnaced mammogram images using Laplacian filter and histogram equalization. After this, I have implemented edge detection using canny edge detection and k-means clustering for segmentation. 
 
 The original images used are:
 
